@@ -4,7 +4,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="l0l2learn",
-    version="0.1.0",
+    version="0.1.1",
     description="Cardinality- and budget-constrained feature selection for logistic regression using mixed-integer conic optimization",
     author="Ricardo Knauer",
     author_email="ricardo.knauer@htw-berlin.de",
